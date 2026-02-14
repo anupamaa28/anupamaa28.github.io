@@ -18,7 +18,7 @@ function BotResponse(Input)
         index++
     }
   
-    return {answer : "Sorry I dont have an answer to that<br>Try checking for spelling errors or ask something else!"}
+    return {answer : "go fuck yourself!"}
 
 }
 
